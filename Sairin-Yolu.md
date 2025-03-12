@@ -28,20 +28,43 @@ Cisim sarı sarı parlamaktadır. Göksel cisime doğru uzanır ve eliyle cisime
 => Cisime uzanıyorsun. Dokunmadan önce cismin parlaklığı o kadar artıyor ki, arkadaşların dışında hiçbir şey görememeye başlıyorsun. Cesaretini toplayıp cismi eline alıyorsun ve avucunu kapatıyorsun. Avucunu kapattıktan sonra parlaklık geçiyor ve etraftakilerin şaşkın bakışlarını fark ediyorsun. Belli ki bu cisim bir taştan fazlası diye düşünüyorsun. Bedenini saf bir enerji kaplamaya başlıyor. Sanki avucunun içinde ufak bir Güneş var ve tüm gücünü sen kontrol ediyorsun gibi hissediyorsun. Bir kaç saniye sonra içinden bir ses avucunu açmanı söylüyor. Sımsıkı kapattığın avucunu gevşetiyorsun ve yavaşça açmaya başlıyorsun. Avucun açılırken taşın parlaklığının senin bedenine geçtiğini fark ediyorsun. Tüm vücudun bir Güneş gibi parlıyor. Kafanı kaldırıp baktığında ise karşındaki arkadaşlarının bu güce dayanamayarak erimeye başladığını görüyorsun. Bir kaç saniye içinde etrafında sadece erimiş bedenler kalıyor. Dehşete düşmüş bir şekilde etrafına bakıyorsun ve uzakta yeşil yeşil parlayan bir silüet hariç kimsenin kalmadığını fark ediyorsun. Bu silüete bakarken içini korkunç bir his kaplıyor. Bu hissi daha önce 1 kere yaşadın. Bir an önce oradan uzaklaşman gerektiğini fark ediyorsun ve cismi cebine koyuyorsun. Koşarak kaçmak için arkana dönüyorsun ve yeşil silüet birden yüzünün önünde beliriyor. 
 
 Soluk soluğa, terler içinde uyanıyorsun. Elini cebine atıyorsun. Taş hala cebinde.
-Geçen gece ekip olarak geldiğiniz hanın odasındasın. Güneş yeni doğuyor. Oda hafiften aydınlanmaya başlamış. Ekip olarak tek bir oda tutmuşsunuz. Odanın camı yok. İçerisi leş gibi taşak kokuyor. 
+Ekip olarak bir oda tuttuğunuzu hatırlıyorsun. Ama ondan öncesi yok. Ekip bir araya nasıl geldi kimse hatırlamıyor. Buradan önce neredeydiniz kimse bilmiyor. Tek bildiğin bu taşı hayatın pahasına korumalısın.
+Güneş yeni doğuyor. İçerisi hafiften aydınlanmaya başlamış. Oda leş gibi taşşak kokuyor. 
+Yavaş yavaş ekibin kalanı da uyanıyor.
+=> Ne yapıyorsunuz?
 
 # 1. Sahne Sonu
 
-## Karakterler ##
+# Han ve Hancı #
+Odanız Hanın 2. katında. Odadan çıkıp merdivenlerden iniyorsunuz. Merdivenlerden inerken masanın üstüne bayılmış 2 tane goblin görüyorsun. Han dağılmış. Etrafta kırık sandalyeler, cam şişeler var. Bir kız goblinleri uyandırmaya çalışıyor. Sonunda goblinlerden biri kafasını kaldırıyor ve elinin tersiyle kızı itip düşürüyor. 
+Kız söylene söylene ayağa kalkıyor, hancıya doğru bir bakış atıyor ve eline süpürgesini alıp temizlik yapmaya devam ediyor. Hancı bezmiş bir şekilde iki elini kafasına götürüyor ve goblinleri izlemeye koyuluyor.
+Hafif şişman, kel ve yaşlı bir adam. Geceden kalma olduğu çok belli. 
 
+-Ekip: Ne oldu burada?
+-Hancı: Ne olcak gene cıngar çıkardılar be.
+-Hancı: Te bunlar Ahmet Aga'nın adamları. Anasını siktiler dükkanın. Sözde candarma bunlar be kovamıyoz da. Neyse sizin borç kabarıyo kızanlar. Ne zaman ödüyceniz?
+-Hancı: 2 haftadır burda kalıyonuz bea. Bura aşevi mi?
+-Ekip: Ne kadar?
+-Hancı: 100 altın.
+-Ekip: Paramız yok
+-Hancı: E nabacaz? Beri bakın kızanlar. Siz bu sarı çıyanların götüne tekmeyi koyarsanız borcunuzu silerim bea. Üstüne de 50 altın veririm.
+
+# Han ve Hancı #
+
+## Karakterler ##
 # Ana Kötüler
 
 -Nuri: Taşlardan birini uyuşturucu ticareti sırasında eline geçirmiş. İnandığı kürdo tanrıları tarafından taşın gücünü kullanma yeteneği bahşedilmiş. Kaos ve kötülükten beslenen, güç için her şeyi yapabilecek bir karakter.
 -Ali: Nuri'nin sağ kolu. Gerektiği zaman karşısında durma cesaretini gösterebilecek birisi ancak Nuri taşı eline geçirdiğinden beri bir dediğini ikiletmiyor.
--Yancıları: Undead ordusu. Beyinsiz orospu çocukları. Nuri ve Ali ne derse yaparlar. İnsiyatif alabilecek kapasiteleri yok.
+-Yancılar: Undead ordusu. Beyinsiz orospu çocukları. Nuri ve Ali ne derse yaparlar. İnsiyatif alabilecek kapasiteleri yok.
 
 # Antikalar Ordusu
 
 -Ahmetus Teenotus: Antikalar Ordusu'nun lideri. Yaşlı bir büyücü. Çok güçlü bir büyü sayesinde yaşlanmasını durdurmuş. Gerçek yaşını kimse bilmiyor. Gücünü teenlerden aldığı biliniyor.
--Muzo: Göller kıtasının en bilinmiş kaçakçılarından. Yetenekli bir Hunter. Ağzı iyi laf yapar.
--Görkem Açar: Kıtanın meşhur doktoru. Hayatını bilime adamış. Büyüye inanmaz. Çok konuşur. Zamanın nasıl geçtiğini fark etmezsiniz.
+-Muzo: Göller kıtasının en bilinmiş kaçakçılarından. Yetenekli bir Hunter. Ağzı iyi laf yapar. Çilekli duoya karşı zaafı var.
+-Görkem Açar: Kıtanın meşhur doktoru. Hayatını bilime adamış. Büyüye inanmaz. Çok konuşur. Konuşurken zamanın nasıl geçtiğini fark etmezsiniz.
+-Zeki: Meşhur sanatçı aka ZechsOnTheBeach. Kitleleri kontrol etmenin yollarını bulmuş. Efsaneye göre zamanında peşine taktığı 50 kişiyi hala keman çalarak koşturmaktadır.
+
+# Mavi Göl Ordusu
+
+-Arda: Mavi Göl Ordusu'nun eski lideri. Mavi Göl için yapılan bir savaçta bütün okları kendisi kullandığı için ordusu tarafından terk edilmiş. Uzun zamandır kendisinden haber alınamıyor. Söylentilere göre Florya Ormanı'nın derinliklerinde tek başına atış talimleri yapmakta.
