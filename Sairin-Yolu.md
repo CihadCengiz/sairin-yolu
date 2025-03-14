@@ -174,7 +174,7 @@ Büyücülerden biri boğuk bir sesle:
 
 => Zarla iletişime geçmeye çalışıyor musun?
 # +2 atarsa odayı bir ışık füzmesi kaplıyor. Odadaki herkes kör oluyor ve yere düşüyor. Zindandaki herkes 5 dakika stun yedi.
-# +1 atarsa taş parlamaya başlıyor. Göksel'in gözleri de parlamaya başlıyor. Muhabbet zarlarına +2 alıyor.
+# +1 atarsa taş parlamaya başlıyor. Göksel'in gözleri de parlamaya başlıyor. İkna zarlarına +2 alıyor.
 
 # -Ekip: Olur
 -Ahmetus Teenus: O zaman bir an önce işe koyulmak lazım. Nurdor ile ilgili olabildiğince fazla bilgiye ihtiyacımız var. Büyücülerimiz ve casuslarımıza sürekli gözlem yaptırıyoruz. Burdan çıkınca kampta Hamido'yu bulun. Her yerde gözü kulağı vardır. Bu diyarda adını duymayan yoktur. O sizi görevleriniz hakkında bilgilendirir. Haydi bakalım çocuklar. Haberlernizi bekliyorum.
